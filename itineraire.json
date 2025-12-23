@@ -1,0 +1,116 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "🌸",
+  "titre": "Évasion Relaxante aux Açores : Ponta Delgada en 4 Jours",
+  "budget_total": "750 €/pers (estimation)",
+  "duree": "4 jours",
+  "temps_vol": "4h00 (depuis Paris, france)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas Açoriens",
+      "legende": "Après votre vol, installez-vous tranquillement dans la capitale açorienne. Profitez d'une balade relaxante le long du port et dans le centre historique pour vous imprégner de l'ambiance locale. Dégustez un dîner typique pour clore cette première journée en douceur.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Ponta Delgada (PDL) et récupération de votre voiture de location.",
+        "<strong>🛏️</strong>: Installation à votre hébergement au cœur de Ponta Delgada.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante dans le centre historique de Ponta Delgada, découvrant les Portes de la Ville et l'église de São Sebastião.",
+        "<strong>🍽️</strong>: Dîner dans un restaurant local pour goûter aux saveurs açoriennes."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "Une voiture est indispensable pour explorer l'île de São Miguel en toute liberté. Réservez-la à l'avance pour garantir la disponibilité et de meilleurs tarifs."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Panoramas Époustouflants de Sete Cidades",
+      "legende": "Partez à la découverte de l'ouest de l'île, où des paysages volcaniques spectaculaires vous attendent. Admirez les vues imprenables sur les lacs jumeaux de Sete Cidades et profitez d'une balade paisible autour de ces merveilles naturelles.",
+      "lieu": "Sete Cidades",
+      "activites": [
+        "<strong>👀</strong>: Point de vue de Vista do Rei pour une vue panoramique sur les lacs bleu et vert de Sete Cidades, un spectacle emblématique des Açores.",
+        "<strong>🚶‍♀️</strong>: Courte randonnée ou balade douce autour du lac de Sete Cidades, appréciant la sérénité du lieu et la nature environnante.",
+        "<strong>🍍</strong>: Visite d'une plantation d'ananas aux alentours de Ponta Delgada pour découvrir la culture unique de ce fruit exotique en serre."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "☁️",
+          "titre": "Météo changeante",
+          "texte": "Le temps peut varier rapidement aux Açores, passant du soleil à la brume en quelques minutes. Prévoyez des vêtements pour toutes les conditions, même pour une même journée."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "♨️",
+      "titre": "Détente Thermale et Nature Luxuriante",
+      "legende": "Cap sur l'est de l'île pour une journée dédiée à la relaxation et à la découverte des phénomènes géothermiques. Baignez-vous dans les sources chaudes de Furnas et explorez les magnifiques jardins botaniques, une véritable oasis de verdure.",
+      "lieu": "Furnas",
+      "activites": [
+        "<strong>♨️</strong>: Baignade relaxante dans les piscines thermales du Parc Terra Nostra ou de Poça da Dona Beija à Furnas, réputées pour leurs vertus.",
+        "<strong>🌳</strong>: Promenade dans le luxuriant Parc Terra Nostra, abritant une collection impressionnante de plantes exotiques et un lac paisible.",
+        "<strong>🍲</strong>: Dégustation du \"Cozido das Furnas\", un plat cuit lentement sous terre grâce à la chaleur volcanique, une expérience culinaire unique."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Maillot de bain",
+          "texte": "Les eaux thermales riches en fer peuvent tacher les maillots de bain clairs. Préférez un maillot foncé ou un vieux maillot pour profiter pleinement de la baignade."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Beauté Naturelle et Envol",
+      "legende": "Avant de prendre votre vol retour, offrez-vous une dernière immersion dans la nature açorienne avec la visite du sublime Lagoa do Fogo. Profitez de ses vues panoramiques avant de rejoindre l'aéroport, la tête remplie de souvenirs apaisants.",
+      "lieu": "Lagoa do Fogo / Ponta Delgada",
+      "activites": [
+        "<strong>⛰️</strong>: Point de vue sur le Lagoa do Fogo (Lac de Feu), un lac de cratère d'une beauté sauvage et préservée, souvent entouré de brume mystérieuse.",
+        "<strong>🛍️</strong>: Derniers achats de souvenirs locaux à Ponta Delgada ou dégustation d'un café açorien pour un dernier goût de l'île.",
+        "<strong>🛫</strong>: Restitution de la voiture de location à l'aéroport et vol retour depuis Ponta Delgada (PDL)."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Temps de trajet",
+          "texte": "Prévoyez suffisamment de temps pour le trajet vers l'aéroport et la restitution du véhicule, surtout en haute saison, afin d'éviter tout stress inutile."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "266 €/pers (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "~100 €/pers (location voiture 4 jours, base 2 pers)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "~160 €/pers (40€/jour, base 4 jours)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "~150 €/pers (3 nuits en hôtel 3*, base 2 pers)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "~50 €/pers (entrées parcs, sources chaudes)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Avril et Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La météo aux Açores est très changeante. Prévoyez des couches de vêtements, un imperméable et de bonnes chaussures de marche.", "symbole": "🌦️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant pour la location de voiture. La conduite se fait à droite et les routes peuvent être sinueuses.", "symbole": "🚗" },
+    { "titre": "Une carte SIM locale ou une eSIM est recommandée pour la navigation et la communication. Le Wi-Fi est disponible dans la plupart des hébergements.", "symbole": "📶" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-PDL/2026-03-10/2026-03-14", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Açores", "url": "https://www.visitazores.com/fr", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Rentalcars.com", "url": "https://www.rentalcars.com/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "IPMA (Météo Portugal)", "url": "https://www.ipma.pt/pt/otempo/prev.localidade.html?localID=2&cidadeID=19", "symbole": "🌤️" }
+  ]
+}
